@@ -1,3 +1,6 @@
+wait(10)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrbaconXD/GUI/main/GUI.lua"), true)
+
 local coregui = game:service'CoreGui'
 
 local sound = Instance.new('Sound', coregui)

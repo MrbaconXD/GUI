@@ -2,7 +2,7 @@
 --local TextService = game:GetService("TextService")
 --local filteredTextResult = TextService:FilterStringAsync(text, fromPlayerId)
 
-wait(seconds)
+wait(1)
 local b = BrickColor.new("Bright yellow")
 game.StarterGui:SetCore("ChatMakeSystemMessage", {
 Text = "[Server]: Access Successfully to trolling a hacking user\n[Server]: Dont hack get gud at game\n[Server]: -- BaconGuy#1440";

